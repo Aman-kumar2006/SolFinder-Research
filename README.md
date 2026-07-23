@@ -30,11 +30,9 @@ A responsive, accessible, and modern corporate website developed during an inter
 
 ## Preview
 
-> Replace these placeholders with screenshots.
-
 | Desktop | Mobile |
 |----------|--------|
-| ![Desktop Preview](./images/homepage.jpg) | ![Mobile Preview](./images/homepageMobile.jpg) |
+| ![Desktop Preview](images/preview/homepage.jpg) | ![Mobile Preview](images/preview/homepageMobile.jpg) |
 
 ---
 
@@ -214,32 +212,6 @@ This project provided practical experience with:
 
 ---
 
-# Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request
-
----
 
 # License
 
@@ -253,21 +225,8 @@ See the **LICENSE** file for more information.
 
 **Aman Kumar**
 
-GitHub: **YOUR_GITHUB_LINK**
+GitHub: **https://github.com/aman-kumar2006/solfinder-research**
 
-Portfolio: **YOUR_PORTFOLIO_LINK**
-
-LinkedIn: **YOUR_LINKEDIN_LINK**
-
----
-
-<div align="center">
-
-### Support
-
-If you found this project useful, consider giving the repository a star.
-
-</div>
 
 ---
 
@@ -295,23 +254,3 @@ responsive-ui
 vanilla-javascript
 html-css
 ```
-
----
-
-## Suggested Social Preview
-
-Replace these files with your own images:
-
-```
-preview-desktop.png
-preview-mobile.png
-og-image.png
-banner.png
-```
-
-Recommended sizes:
-
-- Repository Social Preview → **1280 × 640**
-- README Banner → **1600 × 600**
-- Desktop Screenshot → **1600 × 900**
-- Mobile Screenshot → **400 × 800**
