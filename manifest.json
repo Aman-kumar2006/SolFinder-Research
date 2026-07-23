@@ -1,0 +1,66 @@
+{
+  "name": "SolFinder Research",
+  "short_name": "SolFinder",
+  "description": "SolFinder Research designs applied-AI, cloud, and cybersecurity systems for organizations that need to find signal in complex problems, fast.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["technology", "business", "research"],
+  "icons": [
+    {
+      "src": "/images/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icons/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/preview/og-image.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "SolFinder Research Homepage"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Services",
+      "short_name": "Services",
+      "description": "View our technology services",
+      "url": "/services.html",
+      "icons": [{ "src": "/images/favicon.svg", "sizes": "192x192", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Research",
+      "short_name": "Research",
+      "description": "Explore our research and publications",
+      "url": "/research.html",
+      "icons": [{ "src": "/images/icons/favicon.svg", "sizes": "192x192", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Get in touch with us",
+      "url": "/contact.html",
+      "icons": [{ "src": "/images/icons/favicon.svg", "sizes": "192x192", "type": "image/svg+xml" }]
+    }
+  ]
+}
