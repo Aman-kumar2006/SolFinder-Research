@@ -1,240 +1,256 @@
 <div align="center">
 
-# 🚀 SolFinder Research
-### A Modern Responsive Technology Company Website
+# SolFinder Research
+
+### Modern Corporate Technology Website
+
+A responsive, accessible, and modern corporate website developed during an internship program to showcase a technology company's services, research initiatives, projects, careers, and organizational profile.
 
 <p>
-A professional, responsive, and interactive corporate website developed as part of an internship project using HTML5, CSS3, and JavaScript.
+  <a href="https://solfinder-research.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Aman-kumar2006/SolFinder-Research"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- <a href="LICENSE_LINK"><img src="https://img.shields.io/badge/License-Educational-success?style=for-the-badge" /></a> -->
 </p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-blue?style=for-the-badge)
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Responsive-Yes-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Accessibility-Friendly-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Maintained-Yes-success?style=flat-square" />
+
+</p>
 
 </div>
 
 ---
 
-# 📖 About The Project
+## Preview
 
-**SolFinder Research** is a modern corporate website designed for a technology and research company. The website highlights the organization's services, research activities, innovative projects, career opportunities, and team members while providing visitors with a clean, engaging, and responsive browsing experience.
-
-The project was developed during an internship to demonstrate frontend web development skills, responsive design principles, UI/UX best practices, and JavaScript-based interactivity.
-
----
-
-# ✨ Key Features
-
-- 🏠 Modern Landing Page
-- 👨‍💼 About Company Section
-- 💻 Professional Services Page
-- 🔬 Research & Publications
-- 📂 Project Portfolio
-- 👥 Team Members Section
-- 💼 Careers Page
-- 📞 Contact Page
-- ❓ Frequently Asked Questions (FAQ)
-- 🔒 Privacy Policy
-- 📜 Terms & Conditions
-- 🚫 Custom 404 Error Page
-- 🌙 Dark Theme UI
-- 📱 Fully Responsive Design
-- ⚡ Smooth Scroll Animations
-- 🎯 Interactive Navigation
-- 🖼️ Professional Cards & Layout
-- 🔝 Back to Top Button
+| Desktop | Mobile |
+|----------|--------|
+| ![Desktop Preview](images/preview/homepage.jpg) | ![Mobile Preview](images/preview/homepageMobile.jpg) |
 
 ---
 
-# 🛠️ Built With
+## Table of Contents
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Font Awesome
-- Google Fonts
-
----
-
-# 📂 Project Structure
-
-```text
-SolFinder-Research
-│
-├── css/
-│   ├── style.css
-│   ├── responsive.css
-│   └── animations.css
-│
-├── js/
-│   ├── script.js
-│   ├── reveal.js
-│   ├── faq.js
-│   ├── loader.js
-│   └── theme.js
-│
-├── images/
-│
-├── index.html
-├── about.html
-├── services.html
-├── research.html
-├── projects.html
-├── team.html
-├── careers.html
-├── contact.html
-├── faq.html
-├── privacy.html
-├── terms.html
-└── 404.html
-```
+- About
+- Features
+- Technology Stack
+- Project Structure
+- Website Pages
+- Responsive Design
+- Installation
+- Usage
+- Objectives
+- Future Improvements
+- Team
+- Learning Outcomes
+- Contributing
+- License
+- Author
 
 ---
 
-# 🌟 Website Pages
+# About
+
+**SolFinder Research** is a professional corporate website built using modern frontend technologies. The project presents an organization's research activities, technology solutions, company profile, project portfolio, recruitment opportunities, and contact information through an intuitive and responsive interface.
+
+The primary objective was to apply modern frontend development principles while delivering a production-ready static website emphasizing responsiveness, accessibility, maintainability, and user experience.
+
+---
+
+# Features
+
+### User Experience
+
+- Modern corporate landing page
+- Responsive navigation
+- Mobile-first layout
+- Smooth scrolling
+- Scroll reveal animations
+- Interactive UI components
+- Back-to-top button
+- Clean typography
+- Professional card layouts
+- Dark themed interface
+
+### Company Sections
+
+- Company Overview
+- Services
+- Research & Publications
+- Project Portfolio
+- Team Members
+- Career Opportunities
+- Contact Page
+- FAQ
+- Privacy Policy
+- Terms & Conditions
+- Custom 404 Page
+
+### Technical Features
+
+- Semantic HTML5
+- Responsive CSS3 Layout
+- Vanilla JavaScript
+- Cross-browser compatibility
+- Modular file organization
+- Lightweight implementation
+- Optimized assets
+- Maintainable codebase
+
+---
+
+# Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Semantic markup |
+| CSS3 | Styling & responsive layouts |
+| JavaScript (ES6) | Interactive functionality |
+| Font Awesome | Icons |
+| Google Fonts | Typography |
+
+
+---
+
+# Website Pages
 
 | Page | Description |
 |------|-------------|
-| Home | Company introduction and hero section |
-| About | Vision, mission, and company overview |
-| Services | Technology solutions offered |
-| Research | Publications, innovation labs, and research activities |
-| Projects | Portfolio of completed and ongoing projects |
-| Team | Internship team members |
-| Careers | Job opportunities and hiring process |
-| Contact | Contact form and company details |
+| Home | Company overview and hero section |
+| About | Vision, mission and company information |
+| Services | Technology services and solutions |
+| Research | Research activities and publications |
+| Projects | Portfolio of completed projects |
+| Team | Organization and internship members |
+| Careers | Recruitment information |
+| Contact | Contact details and inquiry form |
 | FAQ | Frequently asked questions |
-| Privacy Policy | User privacy information |
-| Terms & Conditions | Website usage terms |
+| Privacy Policy | Privacy information |
+| Terms & Conditions | Terms of website usage |
 | 404 | Custom error page |
 
 ---
 
-# 📱 Responsive Design
+# Responsive Design
 
-The website has been optimized for
+The interface is optimized for multiple screen sizes.
 
-- 💻 Desktop
-- 💼 Laptop
-- 📱 Mobile
-- 📲 Tablet
-
----
-
-# 🎯 Objectives
-
-The main objectives of this project were:
-
-- Develop a responsive corporate website
-- Build an attractive and professional UI
-- Improve frontend development skills
-- Learn responsive web design
-- Implement JavaScript interactions
-- Apply modern web development practices
-- Work collaboratively in a team environment
+| Device | Supported |
+|----------|-----------|
+| Desktop | Yes |
+| Laptop | Yes |
+| Tablet | Yes |
+| Mobile | Yes |
 
 ---
 
-# 📈 Future Enhancements
+# Objectives
 
-- Backend Integration
-- User Authentication
-- Admin Dashboard
-- Database Connectivity
-- Blog Section
-- Live Chat Support
-- Search Functionality
-- API Integration
-- Dynamic Content Management
-
----
-
-# 🚀 Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/Aman-kumar2006/SolFinder-Research.git
-```
-
-Open the project
-
-```bash
-cd SolFinder-Research
-```
-
-Launch
-
-Open `index.html`
-
-or use
-
-**VS Code Live Server**
+- Build a professional corporate website
+- Practice responsive web development
+- Apply semantic HTML principles
+- Improve frontend engineering skills
+- Enhance UI/UX implementation
+- Implement interactive JavaScript components
+- Follow modern development practices
+- Strengthen collaborative development workflows
 
 ---
 
-# 👨‍💻 Team Members
+# Future Improvements
 
-| Name | Role |
-|------|------|
-| Aman Kumar | Team Leader & Frontend Developer |
-| Prince | UI/UX Designer |
-| Sumit | Frontend Developer |
-| Rahul | JavaScript Developer & Testing |
-| Pratik | Content Developer & Documentation |
+- Backend integration
+- Authentication system
+- Admin dashboard
+- CMS integration
+- Database connectivity
+- REST API support
+- Search functionality
+- Blog management
+- Live chat
+- Analytics dashboard
+- Contact form backend
+- Performance optimization
+- Progressive Web App (PWA)
 
 ---
 
-# 📚 Learning Outcomes
+# Team
 
-Through this project, our team gained practical experience in:
+| Member | Responsibility |
+|---------|----------------|
+| Aman Kumar | Team Lead & Frontend Development |
+| Prince | UI/UX Design |
+| Sumit | Frontend Development |
+| Rahul | JavaScript Development & Testing |
+| Pratik | Content & Documentation |
+
+---
+
+# Learning Outcomes
+
+This project provided practical experience with:
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 - Responsive Web Design
 - UI/UX Principles
+- Accessibility
+- Frontend Architecture
 - Website Optimization
-- Team Collaboration
 - Git & GitHub
+- Team Collaboration
 - Project Documentation
 
 ---
 
-# 🤝 Contributing
 
-Contributions, suggestions, and improvements are always welcome.
-
-If you would like to contribute:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a Pull Request
-
----
-
-# 📄 License
+# License
 
 This project was developed for educational and internship purposes.
 
----
-
-# 👤 Author
-
-## Aman Kumar
-
-GitHub:
-https://github.com/Aman-kumar2006
+See the **LICENSE** file for more information.
 
 ---
 
-<div align="center">
+# Author
 
-### ⭐ If you found this project helpful, please consider giving it a Star ⭐
+**Aman Kumar**
 
-Made with ❤️ by **Aman Kumar**
+GitHub: **https://github.com/aman-kumar2006/solfinder-research**
 
-</div>
+
+---
+
+## Repository Topics (GitHub)
+
+```
+html
+css
+javascript
+frontend
+responsive-design
+corporate-website
+landing-page
+company-website
+portfolio
+internship-project
+web-development
+ui-ux
+frontend-project
+static-website
+technology
+research
+website-template
+responsive-ui
+vanilla-javascript
+html-css
+```
